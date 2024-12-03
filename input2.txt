@@ -1,1 +1,1 @@
-Привет, мир!
+palindromes: level, nun, peep, deified, noon, racecar
